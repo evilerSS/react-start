@@ -1,8 +1,11 @@
 {
-  "name": "my-project",
+  "name": "react-start",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
@@ -27,5 +30,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {}
 }
